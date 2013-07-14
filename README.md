@@ -1,4 +1,4 @@
-FlickrCleanr 0.1.1
+FlickrCleanr 0.1.2
 ==================
 
 Yahoo! decided to ruin the fine design job they did on Flickr with a horrible purple bar at the top of the screen. This extension fixes that.
@@ -10,6 +10,7 @@ This is as simple as it gets right now. There will certainly be adjustments in t
 
 * 0.1 - Initial version.
 * 0.1.1 - Added additional icon sizes.
+* 0.1.2 - Fixed manifest.json.
 
 
 ## License
