@@ -1,0 +1,12 @@
+#eyebrow {
+  display: none;
+}
+
+body {
+  top: 0px;
+  padding-top: 49px;
+}
+
+#global-nav {
+  top: 0px;
+}
