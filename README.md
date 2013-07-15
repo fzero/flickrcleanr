@@ -14,6 +14,11 @@ This is as simple as it gets right now. There will certainly be adjustments in t
 * 0.1.3 - Minor tweaks.
 
 
+## The `/design` folder
+
+I used [Pixelmator](http://www.pixelmator.com/) to create all images because Photoshop is too damn expensive. Deal with it.
+
+
 ## License
 
 Distributed under the [Artistic License 2.0](http://opensource.org/licenses/artistic-license-2.0.php).
